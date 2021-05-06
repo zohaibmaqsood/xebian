@@ -1,0 +1,17 @@
+[{
+  "_class": "com.xeb.employee.repository.entity.Employee",
+  "code": "emp1",
+  "firstName": "Zohaib",
+  "lastName": "Syed",
+  "cityCode": "CMH",
+  "stateCode": "OH",
+  "zipCode": "43240"
+}, {
+  "_class": "com.xeb.employee.repository.entity.Employee",
+  "code": "emp2",
+  "firstName": "Zohaib",
+  "lastName": "Syed",
+  "cityCode": "Ahmedabad",
+  "stateCode": "Guj",
+  "zipCode": "43015"
+}]
